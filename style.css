@@ -1,0 +1,39 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+     
+    
+    
+    
+    
+    
+    
+    table, th, td {
+		border: 1px solid black;
+		border-collapse: collapse;
+        text-align: center;
+        width: 1000000000%;
+        height: 100px;
+        background-color: darkcyan;
+	}
+
+
+
+    td:hover{
+        background-color: chartreuse;
+        
+
+    }
+
+
+
+    
+    table {
+        background: url('https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif') no-repeat center center;
+        background-size: cover; color: #f2f2f2;
+        }
